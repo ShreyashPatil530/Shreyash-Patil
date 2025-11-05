@@ -284,7 +284,7 @@ I am a highly motivated final-year B.Tech Computer Science & Engineering student
 </a>
 </p>
 
-**📍 Location:** Nipani, Karnataka, India | **📱 Phone:** +91 8618170841 | **✉️ Email:** shreyashpatil530@gmail.com | **⏰ Timezone:** IST (UTC+5:30)
+**📍 Location:** Nipani, Karnataka, India| **✉️ Email:** shreyashpatil530@gmail.com | **⏰ Timezone:** IST (UTC+5:30)
 
 ---
 
