@@ -40,7 +40,7 @@ I am a highly motivated final-year B.Tech Computer Science & Engineering student
 </td>
 <td width="32%" align="center">
 <!-- Developer GIF -->
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqKSJqv/giphy.gif" alt="Coding GIF" width="250" height="250"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687atE/giphy.gif" alt="Developer Working GIF" width="250" height="250"/>
 </td>
 </tr>
 </table>
@@ -284,7 +284,7 @@ I am a highly motivated final-year B.Tech Computer Science & Engineering student
 </a>
 </p>
 
-**📍 Location:** Nipani, Karnataka, India| **✉️ Email:** shreyashpatil530@gmail.com | **⏰ Timezone:** IST (UTC+5:30)
+**📍 Location:** Nipani, Karnataka, India | **📱 Phone:** +91 8618170841 | **✉️ Email:** shreyashpatil530@gmail.com | **⏰ Timezone:** IST (UTC+5:30)
 
 ---
 
