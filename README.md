@@ -17,6 +17,7 @@
 
 <a href="https://shreyash-patil-portfolio1.netlify.app" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-Visit_Website-667EEA?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio Badge" />
+<img src="https://iabac.org/blog/uploads/images/202311/image_870x_6560a419da630.jpg" alt="Portfolio Badge" />
 </a>
 </p>
 
