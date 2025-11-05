@@ -40,7 +40,7 @@ I am a highly motivated final-year B.Tech Computer Science & Engineering student
 </td>
 <td width="32%" align="center">
 <!-- Developer GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687atE/giphy.gif" alt="Developer Working GIF" width="250" height="250"/>
+<img src="https://www.mygreatlearning.com/blog/wp-content/uploads/2019/09/What-is-data-science-2.jpg" alt="Developer Working GIF" width="250" height="250"/>
 </td>
 </tr>
 </table>
