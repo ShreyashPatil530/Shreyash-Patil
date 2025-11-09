@@ -1,6 +1,16 @@
-<!-- Profile Header -->
+<!-- Profile Header with Dynamic Timestamp -->
+<div align="right">
+  <img src="https://img.shields.io/badge/Last%20Updated-2025--11--09%2005:48:45%20UTC-blue?style=flat-square&logo=github" alt="Last Updated"/>
+</div>
+
 <h1 align="center">नमस्ते <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" width="28"/>, I'm <span style="color:#667EEA;">Shreyash Patil</span></h1>
-<h3 align="center" style="font-size:1.15em;font-weight:500;">Data Scientist & ML Engineer | Turning Code into Intelligent Solutions</h3>
+
+<!-- Animated Typing Text -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Data+Scientist+%26+ML+Engineer;Turning+Code+into+Intelligent+Solutions;Kaggle+Bronze+Medalist" alt="Typing SVG"/>
+  </a>
+</div>
 
 <!-- Social Integration (Modern Style) -->
 <div align="center">
@@ -48,7 +58,10 @@
 <tr>
 <td align="center" width="34%">
   <h4>🤖 ML & AI</h4>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,xgboost,lightgbm,pandas,numpy,matplotlib,seaborn"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn"/>
+  <br/>
+  <img src="https://img.shields.io/badge/XGBoost-009CFF?style=flat-square"/> 
+  <img src="https://img.shields.io/badge/LightGBM-30A4E1?style=flat-square"/>
 </td>
 <td align="center" width="33%">
   <h4>🖥️ Backend & Web</h4>
@@ -57,7 +70,9 @@
 <td align="center" width="33%">
   <h4>📊 Databases & Tools</h4>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,docker,linux"/>
-  <br/><img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau"/>
+  <br/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi"/> 
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau"/>
 </td>
 </tr>
 </table>
@@ -83,6 +98,7 @@
       <img src="https://img.shields.io/badge/Scikit_learn-F7931E?logo=scikit-learn" />
     </div>
   </details>
+  
   <!-- Blinkit Sales Analysis -->
   <details>
     <summary><b>📊 <a href="https://github.com/ShreyashPatil530/Blinkit-Sales-Analysis">Blinkit Sales Analysis Dashboard</a></b></summary>
@@ -91,6 +107,7 @@
       <b>Stack:</b> Python • Pandas • Power BI • DAX
     </blockquote>
   </details>
+  
   <!-- Backend API Services -->
   <details>
     <summary><b>💻 <a href="https://github.com/ShreyashPatil530">Backend API Services</a></b></summary>
@@ -100,7 +117,6 @@
     </blockquote>
   </details>
 </div>
-<br/>
 
 ---
 
@@ -128,36 +144,13 @@
 
 ---
 
-<!-- Achievements & Impact -->
-<h2 align="center">🏆 Achievements & Impact</h2>
-
-<table align="center">
-  <tr>
-    <th>🏅 Achievement</th>
-    <th>Details</th>
-    <th>Impact</th>
-  </tr>
-  <tr>
-    <td>🥉 Kaggle Bronze</td>
-    <td>172K+ records, ensemble ML</td>
-    <td>Top 2K global, RMSE 0.0554</td>
-  </tr>
-  <tr>
-    <td>📈 Blinkit Sales Dash</td>
-    <td>100K+ records, Power BI</td>
-    <td>60% faster reporting</td>
-  </tr>
-  <tr>
-    <td>🔧 Feature Engineering</td>
-    <td>50+ advanced features</td>
-    <td>Better polynomials, transforms</td>
-  </tr>
-  <tr>
-    <td>💼 8+ Projects</td>
-    <td>Full-stack ML/Backend</td>
-    <td>Professional Portfolio</td>
-  </tr>
-</table>
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Activity</h2>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyashPatil530&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashPatil530&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
@@ -165,7 +158,6 @@
 <h2 align="center">✨ Skills & Expertise</h2>
 
 <div align="center">
-
 <table>
 <tr>
 <td><b>🤖 ML/AI:</b></td>
@@ -188,40 +180,27 @@
 
 ---
 
-<!-- Current Work / Open Source -->
+<!-- Current Work -->
 <h2 align="center">💼 What I'm Building...</h2>
 
-<ul>
-  <li>🤖 <b>Advanced ML/GenAI</b> — Ensembles, DL, Generative AI</li>
-  <li>💻 <b>Scalable APIs</b> — Flask, Django, FastAPI, Auth & Security</li>
-  <li>📊 <b>Dashboards & BI</b> — Power BI, Tableau visualizations</li>
-  <li>🔗 <b>Open Source</b> — Global dev community</li>
-  <li>🚀 <b>Tech Learning</b> — Latest industry trends</li>
-  <li>📚 <b>Data Engineering</b> — ETL & optimization</li>
-</ul>
-
----
-
-<!-- Opportunities -->
-<h2 align="center">🎯 Open For</h2>
 <div align="center">
-
-<table width="98%">
-  <tr>
-    <th>Role</th><th>Type</th><th>Level</th><th>Format</th>
-  </tr>
-  <tr>
-    <td>Backend Developer</td><td>Full-time / Internship</td><td>Entry-Early Pro</td><td>Remote / On-site</td>
-  </tr>
-  <tr>
-    <td>Data Scientist</td><td>Project / Full-time</td><td>Intermediate+</td><td>Flexible</td>
-  </tr>
-  <tr>
-    <td>ML Engineer</td><td>Contract / Full-time</td><td>Intermediate+</td><td>Remote</td>
-  </tr>
-  <tr>
-    <td>Open Source</td><td>Collaborative</td><td>Any</td><td>Remote</td>
-  </tr>
+<table>
+<tr>
+<td>🤖 <b>Advanced ML/GenAI</b></td>
+<td>Ensembles, Deep Learning, Generative AI</td>
+</tr>
+<tr>
+<td>💻 <b>Scalable APIs</b></td>
+<td>Flask, Django, FastAPI with Auth & Security</td>
+</tr>
+<tr>
+<td>📊 <b>Analytics</b></td>
+<td>Interactive BI Dashboards & Visualizations</td>
+</tr>
+<tr>
+<td>🔗 <b>Open Source</b></td>
+<td>Contributing to Global Dev Community</td>
+</tr>
 </table>
 </div>
 
@@ -240,35 +219,24 @@
 <!-- Connect Section Modern -->
 <h2 align="center">🔗 Connect & Collaborate</h2>
 <p align="center">
-  <a href="mailto:shreyashpatil530@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/></a>
-  <a href="tel:+918618170841" target="_blank"><img src="https://img.shields.io/badge/Phone-Call-075DFF?style=for-the-badge&logo=phone"/></a>
-  <a href="https://linkedin.com/in/shreyash-patil-ba921737b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://github.com/ShreyashPatil530" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/></a>
-  <a href="https://kaggle.com/shreyashpatil217" target="_blank"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle"/></a>
-  <a href="https://shreyash-patil-portfolio1.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Website-667EEA?style=for-the-badge&logo=globe"/></a>
+  <a href="mailto:shreyashpatil530@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/></a>
+  <a href="tel:+918618170841"><img src="https://img.shields.io/badge/Phone-Call-075DFF?style=for-the-badge&logo=phone"/></a>
+  <a href="https://linkedin.com/in/shreyash-patil-ba921737b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
 </p>
 
-<div align="center" style="font-size:.98em;color:#444;">
-<b>📍 Nipani, Karnataka, India | 📱 +91 8618170841 | ✉️ shreyashpatil530@gmail.com | ⏰ IST (UTC+5:30)</b>
-</div>
-
----
-
-<!-- Support Section Modern and Fun -->
-<h2 align="center">⭐ Support My Work</h2>
 <div align="center">
-  <b>If my work inspires you:</b><br>
-  ⭐ Star my repos<br>
-  👁️ Watch for updates<br>
-  🔗 Follow for fresh content<br>
-  💬 Let's build together!
+  <b>📍 Nipani, Karnataka, India | 📱 +91 8618170841 | ✉️ shreyashpatil530@gmail.com | ⏰ IST (UTC+5:30)</b>
 </div>
 
 ---
 
 <div align="center">
-  <br/>
   <b>💖 Made with ❤️ by Shreyash Patil</b><br/>
   <i>Data Scientist • ML Engineer • Backend Developer • Kaggle Bronze Medalist</i><br/>
-  <small>Last Updated: November 2025 | Open to Exciting Opportunities 🚀</small>
+  <small>Last Updated: 2025-11-09 05:48:45 UTC | Open to Exciting Opportunities 🚀</small>
 </div>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShreyashPatil530&color=667EEA&style=flat-square&label=Profile+Views" alt="Profile views"/>
+</p>
