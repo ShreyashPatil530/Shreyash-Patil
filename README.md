@@ -227,12 +227,11 @@
 <h2 align="center">🔗 Connect & Collaborate</h2>
 <p align="center">
   <a href="mailto:shreyashpatil530@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email"/></a>
-  <a href="tel:+918618170841"><img src="https://img.shields.io/badge/Phone-Call-075DFF?style=for-the-badge&logo=phone" alt="Phone"/></a>
   <a href="https://linkedin.com/in/shreyash-patil-ba921737b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
 </p>
 
 <div align="center">
-  <b>📍 Nipani, Karnataka, India | 📱 +91 8618170841 | ✉️ shreyashpatil530@gmail.com | ⏰ IST (UTC+5:30)</b>
+  <b>📍 Nipani, Karnataka, India |  ✉️ shreyashpatil530@gmail.com | ⏰ IST (UTC+5:30)</b>
 </div>
 
 ---
